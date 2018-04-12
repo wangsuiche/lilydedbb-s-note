@@ -39,9 +39,35 @@ If you're interested in me, you're welcome to add me to your contacts. You can u
 
 Now I am in **Hangzhou, China**
 
-This is the beautiful Hangzhou West Lake:
+This is the beautiful $Hangzhou\ West\ Lake$:
 
-![image](./images/IMG_7529.jpg)
+![IMG_1603](./images/IMG_1603.jpg)
+
+![IMG_8824](./images/IMG_8824.jpg)
+
+![IMG_8747](./images/IMG_8747.jpg)
+
+![IMG_8793](./images/IMG_8793.jpg)
+
+![IMG_1673](./images/IMG_1673.jpg)
+
+![IMG_8917](./images/IMG_8917.jpg)
+
+![IMG_8056](./images/IMG_8056.jpg)
+
+![IMG_8701](./images/IMG_8701.jpg)
+
+![IMG_7529](./images/IMG_7529.jpg)
+
+![IMG_0740](./images/IMG_0740.jpg)
+
+![![image](./images/IMG_1624.jpg)IMG_7926](./images/IMG_7926.jpg)
+
+![IMG_8701](./images/IMG_0994.jpg)
+
+![IMG_1624](./images/IMG_1624.jpg)
+
+
 
 **本博客采用创作共用版权协议, 要求署名、非商业用途和保持一致. 转载本博客文章必须也遵循[署名-非商业用途-保持一致](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)的创作共用协议.**
 
