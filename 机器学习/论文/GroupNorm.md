@@ -32,6 +32,16 @@ $ Instance \ Norm: \ \mathcal{S}_i = \{k~|~k_N=i_N, k_C=i_C\}.$ 对每一个 cha
 
 $Group \ Norm: \ \mathcal{S}_i = \{k~|~k_N=i_N, \lfloor \frac{k_C}{C/G} \rfloor=\lfloor \frac{i_C}{C/G} \rfloor\}$
 
+
+
+$Batch \ Norm: \ \mathcal{S}_i = \{k~|~k_C=i_C\},$ 
+
+$Layer \ Norm: \ \mathcal{S}_i = \{k~|~k_N=i_N\},$ 
+
+$ Instance \ Norm: \ \mathcal{S}_i = \{k~|~k_N=i_N, k_C=i_C\}.$
+
+$Group \ Norm: \ \mathcal{S}_i = \{k~|~k_N=i_N, \lfloor \frac{k_C}{C/G} \rfloor=\lfloor \frac{i_C}{C/G} \rfloor\}$
+
 $IN$ 相当于 $GN$ 在 $G = C$ 条件下的极端情况，相对于 $GN$ 只对同一 $channel$ 的特征进行归一化，只考虑了空间维度的数据分布，忽视了结合不同 $channel$ 之间信息的可能。
 
 >  $IN$ can only rely on the spatial dimension for computing the mean and variance and it **misses the opportunity of exploiting the channel dependence**.
